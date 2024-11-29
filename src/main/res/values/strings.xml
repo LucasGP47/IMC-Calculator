@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMC Calculator</string>
+    <string name="loading">Carregando...</string>
+    <string name="logo_desc">BMI Logo</string>
+</resources>
